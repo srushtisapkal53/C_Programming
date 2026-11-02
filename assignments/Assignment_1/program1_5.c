@@ -3,7 +3,7 @@
 // Function Name : Accept
 // Input         : Integer
 // Output        : char
-// Description   : Prints 'n' number of stars.(n=input) 
+// Description   : Prints '5' number of stars.
 // Date          : 21/10/2026
 // Author        : Srushti Kumod Sapkal
 //

@@ -2,7 +2,7 @@
 //
 // Function Name : Display
 // Input         : Integer, Integer
-// Output        : None
+// Output        : integer
 // Description   : Accepts two numbers and prints first number second number of times
 // Date          : 21/10/2026
 // Author        : Srushti Kumod Sapkal

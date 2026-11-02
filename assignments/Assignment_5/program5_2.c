@@ -2,7 +2,7 @@
 //
 // Function Name : CheckLeapYear
 // Input         : Integer
-// Output        : None
+// Output        : string
 // Description   : checks if. a given year is a leap year
 // Date          : 22/10/2026
 // Author        : Srushti Kumod Sapkal
@@ -44,13 +44,13 @@ int main()
 //
 // Test Table:
 // -------------------------------------------------------------
-// Input           Output
+// Input (iYear)          Output
 // -------------------------------------------------------------
-// 2024            Leap Year
-// 1900            Not a Leap Year
-// 2000            Leap Year
-// 0               Invalid Year
-// -2020           Invalid Year
+// 2024                   Leap Year
+// 1900                   Not a Leap Year
+// 2000                   Leap Year
+// 0                      Invalid Year
+// -2020                  Invalid Year
 // -------------------------------------------------------------
 //
 /////////////////////////////////////////////////////////////////
